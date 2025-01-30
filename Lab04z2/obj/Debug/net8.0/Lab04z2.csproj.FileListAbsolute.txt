@@ -1,0 +1,14 @@
+C:\Users\wojto\source\repos\Lab04z2\obj\Debug\net8.0\Lab04z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\source\repos\Lab04z2\obj\Debug\net8.0\Lab04z2.AssemblyInfoInputs.cache
+C:\Users\wojto\source\repos\Lab04z2\obj\Debug\net8.0\Lab04z2.AssemblyInfo.cs
+C:\Users\wojto\source\repos\Lab04z2\obj\Debug\net8.0\Lab04z2.csproj.CoreCompileInputs.cache
+C:\Users\wojto\source\repos\Lab04z2\bin\Debug\net8.0\Lab04z2.exe
+C:\Users\wojto\source\repos\Lab04z2\bin\Debug\net8.0\Lab04z2.deps.json
+C:\Users\wojto\source\repos\Lab04z2\bin\Debug\net8.0\Lab04z2.runtimeconfig.json
+C:\Users\wojto\source\repos\Lab04z2\bin\Debug\net8.0\Lab04z2.dll
+C:\Users\wojto\source\repos\Lab04z2\bin\Debug\net8.0\Lab04z2.pdb
+C:\Users\wojto\source\repos\Lab04z2\obj\Debug\net8.0\Lab04z2.dll
+C:\Users\wojto\source\repos\Lab04z2\obj\Debug\net8.0\refint\Lab04z2.dll
+C:\Users\wojto\source\repos\Lab04z2\obj\Debug\net8.0\Lab04z2.pdb
+C:\Users\wojto\source\repos\Lab04z2\obj\Debug\net8.0\Lab04z2.genruntimeconfig.cache
+C:\Users\wojto\source\repos\Lab04z2\obj\Debug\net8.0\ref\Lab04z2.dll

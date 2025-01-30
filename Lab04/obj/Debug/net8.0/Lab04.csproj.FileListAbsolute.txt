@@ -1,0 +1,14 @@
+C:\Users\wojto\source\repos\Lab04\bin\Debug\net8.0\Lab04.exe
+C:\Users\wojto\source\repos\Lab04\bin\Debug\net8.0\Lab04.deps.json
+C:\Users\wojto\source\repos\Lab04\bin\Debug\net8.0\Lab04.runtimeconfig.json
+C:\Users\wojto\source\repos\Lab04\bin\Debug\net8.0\Lab04.dll
+C:\Users\wojto\source\repos\Lab04\bin\Debug\net8.0\Lab04.pdb
+C:\Users\wojto\source\repos\Lab04\obj\Debug\net8.0\Lab04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\source\repos\Lab04\obj\Debug\net8.0\Lab04.AssemblyInfoInputs.cache
+C:\Users\wojto\source\repos\Lab04\obj\Debug\net8.0\Lab04.AssemblyInfo.cs
+C:\Users\wojto\source\repos\Lab04\obj\Debug\net8.0\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\wojto\source\repos\Lab04\obj\Debug\net8.0\Lab04.dll
+C:\Users\wojto\source\repos\Lab04\obj\Debug\net8.0\refint\Lab04.dll
+C:\Users\wojto\source\repos\Lab04\obj\Debug\net8.0\Lab04.pdb
+C:\Users\wojto\source\repos\Lab04\obj\Debug\net8.0\Lab04.genruntimeconfig.cache
+C:\Users\wojto\source\repos\Lab04\obj\Debug\net8.0\ref\Lab04.dll
