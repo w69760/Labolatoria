@@ -1,0 +1,14 @@
+C:\Users\Wojtek\source\repos\Lab6z2\bin\Debug\net8.0\Lab6z2.exe
+C:\Users\Wojtek\source\repos\Lab6z2\bin\Debug\net8.0\Lab6z2.deps.json
+C:\Users\Wojtek\source\repos\Lab6z2\bin\Debug\net8.0\Lab6z2.runtimeconfig.json
+C:\Users\Wojtek\source\repos\Lab6z2\bin\Debug\net8.0\Lab6z2.dll
+C:\Users\Wojtek\source\repos\Lab6z2\bin\Debug\net8.0\Lab6z2.pdb
+C:\Users\Wojtek\source\repos\Lab6z2\obj\Debug\net8.0\Lab6z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojtek\source\repos\Lab6z2\obj\Debug\net8.0\Lab6z2.AssemblyInfoInputs.cache
+C:\Users\Wojtek\source\repos\Lab6z2\obj\Debug\net8.0\Lab6z2.AssemblyInfo.cs
+C:\Users\Wojtek\source\repos\Lab6z2\obj\Debug\net8.0\Lab6z2.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\Lab6z2\obj\Debug\net8.0\Lab6z2.dll
+C:\Users\Wojtek\source\repos\Lab6z2\obj\Debug\net8.0\refint\Lab6z2.dll
+C:\Users\Wojtek\source\repos\Lab6z2\obj\Debug\net8.0\Lab6z2.pdb
+C:\Users\Wojtek\source\repos\Lab6z2\obj\Debug\net8.0\Lab6z2.genruntimeconfig.cache
+C:\Users\Wojtek\source\repos\Lab6z2\obj\Debug\net8.0\ref\Lab6z2.dll
