@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD033BC-E276-446E-B052-19189FA7760C}|Zad1\\Zad1.csproj|c:\\users\\wojtek\\source\\repos\\lab7\\zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD033BC-E276-446E-B052-19189FA7760C}|Zad1\\Zad1.csproj|solutionrelative:zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DEEDA0-8969-48ED-B1AE-4B9504D91D3F}|Zad2\\Zad2.csproj|c:\\users\\wojtek\\source\\repos\\lab7\\zad2\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DEEDA0-8969-48ED-B1AE-4B9504D91D3F}|Zad2\\Zad2.csproj|solutionrelative:zad2\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DEEDA0-8969-48ED-B1AE-4B9504D91D3F}|Zad2\\Zad2.csproj|c:\\users\\wojtek\\source\\repos\\lab7\\zad2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DEEDA0-8969-48ED-B1AE-4B9504D91D3F}|Zad2\\Zad2.csproj|solutionrelative:zad2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD033BC-E276-446E-B052-19189FA7760C}|Zad1\\Zad1.csproj|c:\\users\\wojtek\\source\\repos\\lab7\\zad1\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD033BC-E276-446E-B052-19189FA7760C}|Zad1\\Zad1.csproj|solutionrelative:zad1\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD033BC-E276-446E-B052-19189FA7760C}|Zad1\\Zad1.csproj|c:\\users\\wojtek\\source\\repos\\lab7\\zad1\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD033BC-E276-446E-B052-19189FA7760C}|Zad1\\Zad1.csproj|solutionrelative:zad1\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD033BC-E276-446E-B052-19189FA7760C}|Zad1\\Zad1.csproj|c:\\users\\wojtek\\source\\repos\\lab7\\zad1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD033BC-E276-446E-B052-19189FA7760C}|Zad1\\Zad1.csproj|solutionrelative:zad1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD033BC-E276-446E-B052-19189FA7760C}|Zad1\\Zad1.csproj|c:\\users\\wojtek\\source\\repos\\lab7\\zad1\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD033BC-E276-446E-B052-19189FA7760C}|Zad1\\Zad1.csproj|solutionrelative:zad1\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad2\\ClientManager.cs",
+              "RelativeDocumentMoniker": "Zad2\\ClientManager.cs",
+              "ToolTip": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad2\\ClientManager.cs",
+              "RelativeToolTip": "Zad2\\ClientManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:41:25.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad2\\Client.cs",
+              "RelativeDocumentMoniker": "Zad2\\Client.cs",
+              "ToolTip": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad2\\Client.cs",
+              "RelativeToolTip": "Zad2\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:41:23.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad1\\Program.cs",
+              "RelativeDocumentMoniker": "Zad1\\Program.cs",
+              "ToolTip": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad1\\Program.cs",
+              "RelativeToolTip": "Zad1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:34:53.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad1\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Zad1\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad1\\ValidationHelper.cs",
+              "RelativeToolTip": "Zad1\\ValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:35:42.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad1\\Client.cs",
+              "RelativeDocumentMoniker": "Zad1\\Client.cs",
+              "ToolTip": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad1\\Client.cs",
+              "RelativeToolTip": "Zad1\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:32:15.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad1\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Zad1\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad1\\DatabaseManager.cs",
+              "RelativeToolTip": "Zad1\\DatabaseManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:34:52.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad1\\ClientManager.cs",
+              "RelativeDocumentMoniker": "Zad1\\ClientManager.cs",
+              "ToolTip": "C:\\Users\\Wojtek\\source\\repos\\Lab7\\Zad1\\ClientManager.cs",
+              "RelativeToolTip": "Zad1\\ClientManager.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAADwv50AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:32:18.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

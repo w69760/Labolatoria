@@ -1,0 +1,17 @@
+D:\programowanie\Lab7\Zad2\obj\Debug\net8.0\Zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\Lab7\Zad2\obj\Debug\net8.0\Zad2.AssemblyInfoInputs.cache
+D:\programowanie\Lab7\Zad2\obj\Debug\net8.0\Zad2.AssemblyInfo.cs
+D:\programowanie\Lab7\Zad2\obj\Debug\net8.0\Zad2.csproj.CoreCompileInputs.cache
+D:\programowanie\Lab7\Zad2\bin\Debug\net8.0\Zad2.exe
+D:\programowanie\Lab7\Zad2\bin\Debug\net8.0\Zad2.deps.json
+D:\programowanie\Lab7\Zad2\bin\Debug\net8.0\Zad2.runtimeconfig.json
+D:\programowanie\Lab7\Zad2\bin\Debug\net8.0\Zad2.dll
+D:\programowanie\Lab7\Zad2\bin\Debug\net8.0\Zad2.pdb
+D:\programowanie\Lab7\Zad2\bin\Debug\net8.0\CsvHelper.dll
+D:\programowanie\Lab7\Zad2\obj\Debug\net8.0\Zad2.csproj.AssemblyReference.cache
+D:\programowanie\Lab7\Zad2\obj\Debug\net8.0\Zad2.csproj.Up2Date
+D:\programowanie\Lab7\Zad2\obj\Debug\net8.0\Zad2.dll
+D:\programowanie\Lab7\Zad2\obj\Debug\net8.0\refint\Zad2.dll
+D:\programowanie\Lab7\Zad2\obj\Debug\net8.0\Zad2.pdb
+D:\programowanie\Lab7\Zad2\obj\Debug\net8.0\Zad2.genruntimeconfig.cache
+D:\programowanie\Lab7\Zad2\obj\Debug\net8.0\ref\Zad2.dll
