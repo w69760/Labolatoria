@@ -1,0 +1,66 @@
+-- Tworzenie nowej bazy danych
+CREATE DATABASE ZarzadzaniePojazdami;
+GO
+
+-- Przełączenie na nową bazę
+USE ZarzadzaniePojazdami;
+GO
+
+-- Tworzenie głównej tabeli Pojazdy
+CREATE TABLE Pojazdy (
+    ID INT PRIMARY KEY,  -- ID będzie podawane ręcznie, zgodne z plikiem TXT
+    Typ NVARCHAR(50) NOT NULL,
+    Marka NVARCHAR(50) NOT NULL,
+    Model NVARCHAR(50) NOT NULL,
+    RokProdukcji INT CHECK (RokProdukcji = 1886 AND RokProdukcji = YEAR(GETDATE())), -- Walidacja roku
+    NumerRejestracyjny NVARCHAR(20) UNIQUE NOT NULL,
+    DataDodania DATETIME NOT NULL DEFAULT GETDATE()
+);
+GO
+
+-- Tworzenie tabeli Autobusy
+CREATE TABLE Autobusy (
+    ID INT PRIMARY KEY FOREIGN KEY REFERENCES Pojazdy(ID) ON DELETE CASCADE,
+    LiczbaMiejsc INT CHECK (LiczbaMiejsc  0),
+    Dlugosc FLOAT CHECK (Dlugosc  0) -- W metrach
+);
+GO
+
+-- Tworzenie tabeli Ciezarowki
+CREATE TABLE Ciezarowki (
+    ID INT PRIMARY KEY FOREIGN KEY REFERENCES Pojazdy(ID) ON DELETE CASCADE,
+    Ladownosc FLOAT CHECK (Ladownosc  0), -- W tonach
+    Dlugosc FLOAT CHECK (Dlugosc  0) -- W metrach
+);
+GO
+
+-- Tworzenie tabeli Dostawczaki
+CREATE TABLE Dostawczaki (
+    ID INT PRIMARY KEY FOREIGN KEY REFERENCES Pojazdy(ID) ON DELETE CASCADE,
+    Ladownosc FLOAT CHECK (Ladownosc  0) -- W tonach
+);
+GO
+
+-- Tworzenie tabeli Motocykle
+CREATE TABLE Motocykle (
+    ID INT PRIMARY KEY FOREIGN KEY REFERENCES Pojazdy(ID) ON DELETE CASCADE,
+    PojemnoscSilnika INT CHECK (PojemnoscSilnika  50) -- W ccm
+);
+GO
+
+-- Tworzenie tabeli SamochodyOsobowe
+CREATE TABLE SamochodyOsobowe (
+    ID INT PRIMARY KEY FOREIGN KEY REFERENCES Pojazdy(ID) ON DELETE CASCADE,
+    LiczbaMiejsc INT CHECK (LiczbaMiejsc  0)
+);
+GO
+
+-- Tworzenie tabeli SamochodyElektryczne
+CREATE TABLE SamochodyElektryczne (
+    ID INT PRIMARY KEY FOREIGN KEY REFERENCES Pojazdy(ID) ON DELETE CASCADE,
+    LiczbaMiejsc INT CHECK (LiczbaMiejsc  0),
+    PojemnoscBaterii FLOAT CHECK (PojemnoscBaterii  0), -- W kWh
+    Zasieg INT CHECK (Zasieg  0) -- W km
+);
+GO
+

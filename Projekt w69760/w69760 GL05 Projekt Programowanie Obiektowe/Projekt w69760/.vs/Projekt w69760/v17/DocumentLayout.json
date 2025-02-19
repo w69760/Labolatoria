@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\klasy\\autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\klasy\\autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\klasy\\bazadanych.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\klasy\\bazadanych.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\klasy\\bazadanychbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\klasy\\bazadanychbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\klasy\\bazadanychhybrydowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\klasy\\bazadanychhybrydowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\klasy\\bazadanychsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\klasy\\bazadanychsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\klasy\\ciezarowka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\klasy\\ciezarowka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\klasy\\dostawczak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\klasy\\dostawczak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\klasy\\motocykl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\klasy\\motocykl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\klasy\\pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\klasy\\pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\klasy\\samochodelektryczny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\klasy\\samochodelektryczny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\klasy\\samochodosobowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\klasy\\samochodosobowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\diagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:diagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\interfejsy\\ipojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\interfejsy\\ipojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|c:\\users\\wojto\\desktop\\ideolo na 4\\projekt w69760\\zarzadzaniepojazdami\\interfejsy\\ibazadanych.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905799A9-2A59-4E7E-A058-9F09F644F926}|Projekt w69760.csproj|solutionrelative:zarzadzaniepojazdami\\interfejsy\\ibazadanych.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pojazd.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\Pojazd.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Klasy\\Pojazd.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\Pojazd.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Klasy\\Pojazd.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:32:38.011Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Motocykl.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\Motocykl.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Klasy\\Motocykl.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\Motocykl.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Klasy\\Motocykl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:33:14.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ciezarowka.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\Ciezarowka.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Klasy\\Ciezarowka.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\Ciezarowka.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Klasy\\Ciezarowka.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:38:01.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BazaDanychHybrydowa.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\BazaDanychHybrydowa.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Klasy\\BazaDanychHybrydowa.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\BazaDanychHybrydowa.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Klasy\\BazaDanychHybrydowa.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAowLkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:46:43.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dostawczak.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\Dostawczak.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Klasy\\Dostawczak.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\Dostawczak.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Klasy\\Dostawczak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:36:28.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SamochodElektryczny.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\SamochodElektryczny.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Klasy\\SamochodElektryczny.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\SamochodElektryczny.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Klasy\\SamochodElektryczny.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:35:33.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BazaDanychSQL.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\BazaDanychSQL.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Klasy\\BazaDanychSQL.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\BazaDanychSQL.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Klasy\\BazaDanychSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:45:28.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BazaDanych.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\BazaDanych.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Klasy\\BazaDanych.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\BazaDanych.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Klasy\\BazaDanych.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:38:26.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Autobus.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\Autobus.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Klasy\\Autobus.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\Autobus.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Klasy\\Autobus.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:37:00.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BazaDanychBase.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\BazaDanychBase.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Klasy\\BazaDanychBase.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\BazaDanychBase.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Klasy\\BazaDanychBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:17:08.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SamochodOsobowy.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\SamochodOsobowy.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Klasy\\SamochodOsobowy.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Klasy\\SamochodOsobowy.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Klasy\\SamochodOsobowy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:34:12.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Program.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Program.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Program.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:26:31.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Diagram.cd",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\Diagram.cd",
+              "RelativeDocumentMoniker": "Diagram.cd",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\Diagram.cd",
+              "RelativeToolTip": "Diagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-02-19T12:19:06.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPojazd.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Interfejsy\\IPojazd.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Interfejsy\\IPojazd.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Interfejsy\\IPojazd.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Interfejsy\\IPojazd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:11:50.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBazaDanych.cs",
+              "DocumentMoniker": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Interfejsy\\IBazaDanych.cs",
+              "RelativeDocumentMoniker": "ZarzadzaniePojazdami\\Interfejsy\\IBazaDanych.cs",
+              "ToolTip": "C:\\Users\\wojto\\Desktop\\IDEOLO NA 4\\Projekt w69760\\ZarzadzaniePojazdami\\Interfejsy\\IBazaDanych.cs",
+              "RelativeToolTip": "ZarzadzaniePojazdami\\Interfejsy\\IBazaDanych.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:12:07.092Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+% ********** Rozdział 1 **********
+\chapter{Opis założeń projektu}
+\section{Cele projetu}
+%\subsection{Tytuł pierwszego podpunktu}
+
+Celem projektu jest stworzenie intuicyjnego i skutecznego systemu do zarządzania flotą pojazdów. System ma być prosty w obsłudze, a jednocześnie wydajny, umożliwiając uporządkowanie informacji o pojazdach i ułatwiając ich zarządzanie. Pozwala na sprawne dodawanie, edytowanie i wyszukiwanie pojazdów, a także generowanie raportów wspomagających podejmowanie decyzji.
+Problem, który projekt ma rozwiązać, dotyczy braku spójnego narzędzia do zarządzania flotą. Wiele firm korzysta z chaotycznych arkuszy kalkulacyjnych lub nawet papierowych notatek, co prowadzi do zagubienia danych, błędów i niepotrzebnych opóźnień. Zastosowanie tego systemu ma na celu automatyzację procesów i ułatwienie codziennej pracy.
+Dobrze zarządzana flota oznacza niższe koszty, lepszą organizację i większą efektywność. Brak aktualnych danych w firmach transportowych często skutkuje błędnymi decyzjami, co potwierdza potrzebę wprowadzenia spójnego narzędzia. System umożliwi eliminację tych problemów i usprawni zarządzanie pojazdami.
+Realizacja projektu wymaga zastosowania solidnej bazy danych SQL zapewniającej stabilność i bezpieczeństwo informacji. Kluczowe jest także odpowiednie zaprojektowanie funkcji programu w sposób intuicyjny i praktyczny. Proces wdrożenia obejmuje kilka etapów: stworzenie struktury bazy danych, implementację podstawowych funkcjonalności, testowanie oraz finalne wdrożenie. Wynikiem prac będzie gotowa do użytku aplikacja konsolowa, znacznie ułatwiająca zarządzanie flotą pojazdów.
+
+\section{Wymagania funkcjonale i niefunkcjonalne}
+
+\noindent \textbf{Wymagania funkcjonalne}
+\\
+System "Zarządzanie Pojazdami" powinien umożliwiać kompleksowe zarządzanie danymi pojazdów poprzez funkcje dodawania, edytowania oraz usuwania wpisów na podstawie numeru rejestracyjnego. Każdy pojazd powinien być opisany za pomocą szczegółowych informacji, takich jak marka, model, rok produkcji oraz dodatkowe parametry zależne od jego typu.
+System powinien wspierać wyszukiwanie pojazdów według różnych kryteriów, takich jak numer rejestracyjny, marka, model czy rok produkcji, co pozwoli użytkownikowi na szybkie odnalezienie potrzebnych danych. Dodatkowo, aplikacja powinna umożliwiać generowanie statystyk, takich jak liczba pojazdów w systemie czy podział na kategorie, co pozwoli na lepszą analizę i organizację danych.
+Kolejną kluczową funkcjonalnością jest możliwość eksportowania i importowania danych w formacie CSV, co pozwoli na łatwe przenoszenie informacji między systemami lub ich archiwizację. Ważnym elementem systemu jest także integracja z bazą SQL, co zapewni trwałe przechowywanie danych oraz możliwość ich obsługi przez różne aplikacje. Dzięki temu system będzie skalowalny i przygotowany na dalszy rozwój.
+\\
+\\\noindent \textbf{Wymagania niefunkcjonalne }
+\\
+Projekt "Zarządzanie Pojazdami" to aplikacja umożliwiająca dodawanie, edytowanie, usuwanie oraz wyszukiwanie pojazdów, przechowując dane zarówno w plikach CSV, jak i w bazie danych SQL. System został zaprojektowany zgodnie z zasadami programowania obiektowego, co zapewnia jego modularność i łatwość rozbudowy.
+Pod względem wymagań niefunkcjonalnych, aplikacja cechuje się wysoką wydajnością, umożliwiając szybkie operacje na dużych zbiorach danych, przy czym czas odpowiedzi na standardowe operacje CRUD nie powinien przekraczać 500 ms. System jest skalowalny, co pozwala na jego rozszerzenie o dodatkowe typy pojazdów oraz obsługę różnych baz danych.
+Aplikacja została zaprojektowana z myślą o łatwości utrzymania, dlatego kod jest modularny i zgodny z zasadami SOLID, co ułatwia jego rozwój i modyfikacje. System jest również przenośny, działając zarówno na systemach Windows, jak i Linux, oraz obsługując różne wersje SQL Server.
+W zakresie dostępności i niezawodności, aplikacja zapewnia stabilne działanie oraz umożliwia tworzenie kopii zapasowych poprzez eksport danych do plików CSV lub do bazy SQL. 
+
+
+% ********** Koniec rozdziału **********

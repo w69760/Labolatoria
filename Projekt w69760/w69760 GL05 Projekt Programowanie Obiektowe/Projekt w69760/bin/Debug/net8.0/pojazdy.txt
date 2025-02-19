@@ -1,0 +1,34 @@
+1;Autobus;MAN;Lions Coach;2015;WAW1234;18.02.2025;50;12,5
+2;Autobus;Solaris;Urbino;2020;KRK5678;18.02.2025;35;10,2
+3;Autobus;Mercedes;Tourismo;2018;POZ8765;18.02.2025;45;11,0
+4;Ciezarowka;Scania;R500;2019;GDA3456;18.02.2025;20;13,0
+5;Ciezarowka;Volvo;FH16;2021;SOP1234;18.02.2025;25;15,0
+6;Ciezarowka;MAN;TGX;2020;WRO6543;18.02.2025;22;14,5
+7;Dostawczak;Opel;Vivaro;2017;LU12345;18.02.2025;1,5
+8;Dostawczak;Renault;Master;2020;PO32145;18.02.2025;1,8
+9;Motocykl;Yamaha;MT-07;2021;DUPA123;18.02.2025;689
+10;Motocykl;Honda;CBR500;2020;LUB4567;18.02.2025;471
+11;Motocykl;Suzuki;GSX-R750;2019;KAT7654;18.02.2025;750
+12;SamochodOsobowy;Toyota;Corolla;2018;WAR7890;18.02.2025;5
+13;SamochodOsobowy;Volkswagen;Golf;2019;GDA1237;18.02.2025;5
+14;SamochodOsobowy;Skoda;Octavia;2020;WRO4568;18.02.2025;5
+15;SamochodElektryczny;Tesla;Model 3;2022;TES1234;18.02.2025;5;75,0;500
+16;SamochodElektryczny;Nissan;Leaf;2021;NIS5678;18.02.2025;5;40,0;270
+17;SamochodElektryczny;BMW;i3;2020;BMW7891;18.02.2025;4;42,0;300
+18;SamochodElektryczny;Audi;e-tron;2023;AUD4567;18.02.2025;5;95,0;400
+19;Ciezarowka;DAF;XF;2022;DAF7890;18.02.2025;24;14,0
+20;Dostawczak;Mercedes;Sprinter;2019;SPR6543;18.02.2025;2,0
+21;Autobus;Iveco;Crossway;2021;IVE6789;18.02.2025;48;13,5
+22;SamochodElektryczny;Porsche;Taycan;2023;POR9876;18.02.2025;4;93,4;450
+23;Motocykl;Ducati;Panigale V4;2022;DUC5432;18.02.2025;1103
+24;Autobus;Neoplan;Skyliner;2018;NEO3214;18.02.2025;85;14,5
+25;Dostawczak;Fiat;Ducato;2019;DUC7896;18.02.2025;3,0
+26;Ciezarowka;Iveco;Stralis;2020;IVE5678;18.02.2025;23;13,5
+27;Autobus;Setra;S415;2022;SET4567;18.02.2025;55;13,2
+28;SamochodOsobowy;BMW;Seria 5;2021;PLK100;18.02.2025;5
+29;SamochodElektryczny;Hyundai;Kona EV;2022;HYU1234;18.02.2025;5;64,0;420
+30;Motocykl;Kawasaki;Ninja 650;2021;KAW9876;18.02.2025;649
+1;SamochodOsobowy;Opel;Vectra;2004;RST XL37;19.02.2025;5
+2;SamochodOsobowy;Opel;Vectra;2007;RST XL37;19.02.2025;5
+3;SamochodOsobowy;Opel;Vectra;2007;RST XL37;19.02.2025;5
+4;SamochodOsobowy;Opel;Vectra;2007;RST XL37;19.02.2025;5

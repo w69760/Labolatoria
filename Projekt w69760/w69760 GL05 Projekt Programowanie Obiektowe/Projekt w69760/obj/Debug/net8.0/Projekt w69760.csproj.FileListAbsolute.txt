@@ -1,0 +1,1105 @@
+C:\Users\wojto\source\repos\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\source\repos\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\source\repos\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\source\repos\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\source\repos\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\source\repos\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\source\repos\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\source\repos\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\source\repos\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\source\repos\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\source\repos\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\source\repos\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\zanim mi sie gpt skończył — kopia (2)\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\Nowy eksperyment\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\Dodatkowa funkcjonalność\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\Próbuje dodać wyjątki\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\Wyjątki zrobione, robie walidacje\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\sql\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\sql\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\eksport do sql\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\coś się odpierdala z id — kopia\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\działa super, trzeba poprawki kosmetyczne\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\anty gpt\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\anty gptt — kopia\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\anty gptt — kopia — kopia\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\wszystko jest super — kopia\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\idealnie — kopia\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Projekt w69760.exe
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Projekt w69760.deps.json
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Projekt w69760.runtimeconfig.json
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.AssemblyReference.cache
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\obj\Debug\net8.0\Projekt w69760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfoInputs.cache
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\obj\Debug\net8.0\Projekt w69760.AssemblyInfo.cs
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\obj\Debug\net8.0\Projekt w69760.csproj.CoreCompileInputs.cache
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\obj\Debug\net8.0\Projekt .E64EED0E.Up2Date
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\obj\Debug\net8.0\Projekt w69760.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\obj\Debug\net8.0\refint\Projekt w69760.dll
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\obj\Debug\net8.0\Projekt w69760.pdb
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\obj\Debug\net8.0\Projekt w69760.genruntimeconfig.cache
+C:\Users\wojto\Desktop\IDEOLO NA 4\Projekt w69760\obj\Debug\net8.0\ref\Projekt w69760.dll
